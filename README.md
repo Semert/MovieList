@@ -1,5 +1,7 @@
 # Movie List
 
+https://movie-list-semih.netlify.app/
+
 A React, TypeScript, and Redux Observable-powered SPA for browsing and searching movies, series, and episodes via the OMDb API.
 
 ### Installation
