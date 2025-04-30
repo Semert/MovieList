@@ -1,0 +1,47 @@
+// Colors
+$primary-color: #6366f1; // Indigo
+$secondary-color: #ec4899; // Pink
+$background-color: #f8fafc; // Light slate
+$text-color: #1e293b; // Slate dark
+$text-light: #64748b; // Slate
+$border-color: #e2e8f0; // Slate light
+$error-color: #ef4444; // Red
+$success-color: #10b981; // Emerald
+
+// Spacing
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+$spacing-xxl: 48px;
+
+// Font sizes
+$font-size-xs: 12px;
+$font-size-sm: 14px;
+$font-size-md: 16px;
+$font-size-lg: 18px;
+$font-size-xl: 24px;
+$font-size-xxl: 32px;
+
+// Border radius
+$border-radius-sm: 4px;
+$border-radius-md: 8px;
+$border-radius-lg: 16px;
+
+// Breakpoints
+$breakpoint-xs: 0px;
+$breakpoint-sm: 600px;
+$breakpoint-md: 900px;
+$breakpoint-lg: 1200px;
+$breakpoint-xl: 1540px;
+
+// Transitions
+$transition-fast: 0.2s ease;
+$transition-normal: 0.3s ease;
+$transition-slow: 0.5s ease;
+
+// Shadows
+$shadow-light: 0 4px 6px -1px rgba(99, 102, 241, 0.1);
+$shadow-medium: 0 10px 15px -3px rgba(99, 102, 241, 0.15);
+$shadow-heavy: 0 20px 25px -5px rgba(99, 102, 241, 0.2);
