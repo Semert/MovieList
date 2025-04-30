@@ -9,7 +9,6 @@ import {
 } from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
 import ClearIcon from "@mui/icons-material/Clear";
-import TuneIcon from "@mui/icons-material/Tune";
 import { useDispatch, useSelector } from "react-redux";
 import { setSearchQuery, searchMovies } from "../../redux/actions/movieActions";
 import { selectSearchQuery } from "../../redux/selectors/movieSelectors";
